@@ -5,6 +5,7 @@ var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
 	"google.com":	1,
+	“*.google":	1,
 	"google.co.jp":	1,
 	"googlevideo.com":	1,	//youtube視頻
 	"google-analytic.com":	1,
