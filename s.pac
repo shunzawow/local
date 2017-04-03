@@ -4,7 +4,7 @@
 var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
-	"google.com":	1,
+	"||google.com":	1,
 	"blogspot.com":	1,
 	"4shared.com":	1, 
 	"twitter.com":	1,
@@ -22,7 +22,11 @@ var domains = {
 	"dropboxusercontent.com":	1,
 	"aisex.com":	1,
 	"t66y.com":	1,
-	
+	"google.co.jp":	1,
+	"wikipedia.org":	1,
+	"thepiratebay.cd":	1,
+	"tokyo-tosho.net":	1,
+
 };
 
 var direct = 'DIRECT;';
@@ -30,21 +34,21 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
-    var suffix;
-    var pos = host.lastIndexOf('.');
-    pos = host.lastIndexOf('.', pos - 1);
-    while(1) {
-        if (pos <= 0) {
-            if (hasOwnProperty.call(domains, host)) {
-                return proxy;
-            } else {
-                return direct;
-            }
-        }
-        suffix = host.substring(pos + 1);
-        if (hasOwnProperty.call(domains, suffix)) {
-            return proxy;
-        }
-        pos = host.lastIndexOf('.', pos - 1);
-    }
+	var suffix;
+	var pos = host.lastIndexOf('.');
+	pos = host.lastIndexOf('.', pos - 1);
+	while(1) {
+		if (pos <= 0) {
+			if (hasOwnProperty.call(domains, host)) {
+				return proxy;
+			} else {
+				return direct;
+			}
+		}
+		suffix = host.substring(pos + 1);
+		if (hasOwnProperty.call(domains, suffix)) {
+			return proxy;
+		}
+		pos = host.lastIndexOf('.', pos - 1);
+	}
 }
