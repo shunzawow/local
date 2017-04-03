@@ -19,6 +19,9 @@ var domains = {
  	"chinadigitaltimes.net":	1,
 	"gmail.com":	1,
 	"live.com":	1,
+	"dropboxusercontent.com":	1,
+	"aisex.com":	1,
+	"t66y.com":	1,
 	
 };
 
