@@ -4,8 +4,8 @@
 var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
- 	"*.google":	1,
- 	"blogspot.com":	1,
+	"*.google":	1,
+	"blogspot.com":	1,
 	"4shared.com":	1, 
 	"twitter.com":	1,
 	"dropbox.com":	1, 
@@ -15,8 +15,8 @@ var domains = {
 	"bbcchinese.com":	1, 
 	"s3.amazonaws.com":	1,
 	"raw.githubusercontent.com":	1,
- "bbc.com": 1,
- "chinadigitaltimes.net": 1,
+ 	"bbc.com":	1,
+ 	"chinadigitaltimes.net":	1,
 
 	
 };
