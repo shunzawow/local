@@ -8,6 +8,7 @@ var domains = {
  	"bbc.com":	1,
 	"bbcchinese.com":	1, 
  	"chinadigitaltimes.net":	1,
+	"t.co":	1,
 	"dropboxusercontent.com":	1,
 	"facebook.com":	1, 
 	"fb.me":	1,
