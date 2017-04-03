@@ -12,6 +12,7 @@ var domains = {
 	"facebook.com": 1, 
 	"github.com":	1,
 	"github.io":	1,
+	"bbcchinese.com": 1, 
 	
 };
 
