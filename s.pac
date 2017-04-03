@@ -17,7 +17,8 @@ var domains = {
 	"raw.githubusercontent.com":	1,
  	"bbc.com":	1,
  	"chinadigitaltimes.net":	1,
-
+	"gmail.com":	1,
+	"live.com":	1,
 	
 };
 
