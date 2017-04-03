@@ -5,6 +5,7 @@ var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
 	"google.com":	1,
+	"googlevideo.com":	1,
 	"blogspot.com":	1,
 	"4shared.com":	1, 
 	"twitter.com":	1,
@@ -29,6 +30,8 @@ var domains = {
 	"tokyo-hot.com":	1,
 	"twimg.com":	1,
 	"youtube.com":	1,
+	"youtube-nocookie.com":	1,
+	"ytimg.com":	1
 
 };
 
