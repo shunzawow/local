@@ -5,10 +5,13 @@ var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
 	"google.com":	1,
-	"googlevideo.com":	1,
+	"google.co.jp":	1,
+	"googlevideo.com":	1,	//youtube視頻
+	"google-analytic.com":	1,
+	"ggpht.com":	1,	//youtute用戶頭像
+	"gstatic.com":	1,
 	"blogspot.com":	1,
 	"4shared.com":	1, 
-	"twitter.com":	1,
 	"dropbox.com":	1, 
 	"facebook.com":	1, 
 	"github.com":	1,
@@ -23,15 +26,15 @@ var domains = {
 	"dropboxusercontent.com":	1,
 	"aisex.com":	1,
 	"t66y.com":	1,
-	"google.co.jp":	1,
 	"wikipedia.org":	1,
 	"thepiratebay.cd":	1,
 	"tokyo-tosho.net":	1,
 	"tokyo-hot.com":	1,
+	"twitter.com":	1,
 	"twimg.com":	1,
 	"youtube.com":	1,
 	"youtube-nocookie.com":	1,
-	"ytimg.com":	1
+	"ytimg.com":	1	//youtube縮略圖
 
 };
 
