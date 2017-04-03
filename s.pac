@@ -28,6 +28,7 @@ var domains = {
 	"tokyo-tosho.net":	1,
 	"tokyo-hot.com":	1,
 	"twimg.com":	1,
+	"youtube.com":	1,
 
 };
 
