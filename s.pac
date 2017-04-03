@@ -4,7 +4,7 @@
 var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
-	"*.google":	1,
+	"google.com":	1,
 	"blogspot.com":	1,
 	"4shared.com":	1, 
 	"twitter.com":	1,
