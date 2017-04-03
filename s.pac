@@ -15,9 +15,10 @@ var domains = {
 	"fb.me":	1,
 	"google.com":	1,
 	"*.google":	1,
+	"google-analytics.com":	1,
 	"google.co.jp":	1,
 	"googlevideo.com":	1,	//youtube視頻
-	"google-analytic.com":	1,
+	"googleusercontent.com":	1,
 	"ggpht.com":	1,	//youtute用戶頭像
 	"gstatic.com":	1,
 	"letscorp.net":	1,
