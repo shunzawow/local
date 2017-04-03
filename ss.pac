@@ -1,6 +1,6 @@
 /**
  * gfwlist2pac 0.0.1 http://codelife.me
- * Generated: Mon, 03 Apr 2017 05:07:30 GMT
+ * Generated: Mon, 03 Apr 2017 05:27:15 GMT
  * GFWList Last-Modified: None
  */
 
