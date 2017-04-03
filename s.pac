@@ -15,6 +15,9 @@ var domains = {
 	"bbcchinese.com":	1, 
 	"s3.amazonaws.com":	1,
 	"raw.githubusercontent.com":	1,
+ "bbc.com": 1,
+ "chinadigitaltimes.net": 1,
+
 	
 };
 
