@@ -3,6 +3,8 @@ var proxy = "PROXY 104.155.206.156:25;";
 var domains = {
   "*.google": 1,
   "domains.google": 1,
+  "github.io": 1
+  "accounts.google.com": 1
   "share.dmhy.org": 1,
   "pinterest.com": 1,
   "download.kolor.com": 1,
