@@ -26,6 +26,7 @@ var domains = {
 	"wikipedia.org":	1,
 	"thepiratebay.cd":	1,
 	"tokyo-tosho.net":	1,
+	"tokyo-hot.com":	1,
 	"twimg.com":	1,
 
 };
