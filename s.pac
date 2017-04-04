@@ -5,7 +5,7 @@ var proxy = "PROXY 104.155.206.156:25;";
 
 var domains = {
 	"aisex.com":	1,
-	"allinfa.com":	1,	//美博園
+	"allinfa.com":	1,
  	"bbc.com":	1,
 	"bbcchinese.com":	1, 
  	"chinadigitaltimes.net":	1,
@@ -17,9 +17,9 @@ var domains = {
 	"*.google":	1,
 	"google-analytics.com":	1,
 	"google.co.jp":	1,
-	"googlevideo.com":	1,	//youtube視頻
+	"googlevideo.com":	1,
 	"googleusercontent.com":	1,
-	"ggpht.com":	1,	//youtute用戶頭像
+	"ggpht.com":	1,
 	"gstatic.com":	1,
 	"letscorp.net":	1,
 	"blogspot.com":	1,
@@ -46,10 +46,10 @@ var domains = {
 	"tokyo-hot.com":	1,
 	"twitter.com":	1,
 	"twimg.com":	1,
-	"voachinese.com":	1,	//美國之音
+	"voachinese.com":	1,
 	"youtube.com":	1,
 	"youtube-nocookie.com":	1,
-	"ytimg.com":	1	//youtube縮略圖
+	"ytimg.com":	1
 
 };
 
