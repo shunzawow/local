@@ -1,4 +1,4 @@
-var proxy = "PROXY 204.124.181.254:25;";
+var proxy = "PROXY 2304.1241.15f1.24554:25;";
 
 var domains = {
   "*.google": 1,
